@@ -12,7 +12,7 @@ Linux commands grouped by categories:
 * search
   * [find](./find.md)
   * [grep](./grep.md)
-  * zgrep  
+  * [zgrep](./zgrep.md)
 * show file content
   * tail
   * sed
