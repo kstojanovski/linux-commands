@@ -3,7 +3,7 @@ Linux commands short description and examples can be found here.
 
 Linux commands grouped by categories:
 * command information
-  * type
+  * [type](./type.md)
 * input/output
   * input, output error stream
   * redirection operator
