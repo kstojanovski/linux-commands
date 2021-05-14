@@ -14,5 +14,5 @@ Linux commands grouped by categories:
   * [grep](./grep.md)
   * [zgrep](./zgrep.md)
 * show file content
-  * tail
+  * [tail](./tail.md)
   * sed
