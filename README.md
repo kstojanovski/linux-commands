@@ -8,7 +8,7 @@ Linux commands grouped by categories:
   * [input, output error stream](./input-output-error.md)
   * [redirection operator](./redirection-operator.md)
   * [tee](./tee.md)
-  * awk
+  * [awk](./awk.md)
 * search
   * find
   * grep
