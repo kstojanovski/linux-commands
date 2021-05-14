@@ -5,7 +5,7 @@ Linux commands grouped by categories:
 * command information
   * [type](./type.md)
 * input/output
-  * input, output error stream
+  * [input, output error stream](./input-output-error.md)
   * redirection operator
   * tee
   * awk
