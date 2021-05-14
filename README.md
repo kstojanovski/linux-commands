@@ -15,4 +15,4 @@ Linux commands grouped by categories:
   * [zgrep](./zgrep.md)
 * show file content
   * [tail](./tail.md)
-  * sed
+  * [sed](./sed.md)
