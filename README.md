@@ -13,6 +13,6 @@ Linux commands grouped by categories:
   * find
   * grep
   * zgrep  
-* show file contant
+* show file content
   * tail
   * sed
