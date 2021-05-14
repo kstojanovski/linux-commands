@@ -10,7 +10,7 @@ Linux commands grouped by categories:
   * [tee](./tee.md)
   * [awk](./awk.md)
 * search
-  * find
+  * [find](./find.md)
   * grep
   * zgrep  
 * show file content
