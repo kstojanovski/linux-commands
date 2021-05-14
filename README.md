@@ -11,7 +11,7 @@ Linux commands grouped by categories:
   * [awk](./awk.md)
 * search
   * [find](./find.md)
-  * grep
+  * [grep](./grep.md)
   * zgrep  
 * show file content
   * tail
